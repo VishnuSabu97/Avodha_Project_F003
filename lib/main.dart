@@ -1,3 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:avodha/home.dart';
-void main()=> runApp(Home());
+import 'package:avodha/myapp.dart';
+
+void main() => runApp(MyApp());
